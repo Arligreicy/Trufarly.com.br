@@ -1,0 +1,18 @@
+.img-perfil{
+    width: 200px;
+    height: 200px;
+
+    border-radius: 100% !important;
+}
+
+.icon_menu_minha_conta{
+    width: 20px;
+    height: 20px;
+}
+
+.icon_alterar_dados_perfil{
+    min-width: 20px;
+    min-height: 20px;
+
+    padding: 10px;
+}

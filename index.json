@@ -1,0 +1,33 @@
+{
+    "autores":{
+        "nomes":{
+            "0":"Arligreicy Castro Silva",
+            "1":"Kauan Gomes Fernandes"
+        },    
+        
+        "github":{
+            "0": "https://github.com/arligreicy-castro",
+            "1":"https://github.com/kauangfernandes"
+        }
+    },
+    "imgs":{
+        "0":{
+            "id": "net_uml5.gif",
+            "url":"https://images.app.goo.gl/LjH1Eatg64wdfvvP8"
+        }
+    },
+    "auxilio":{
+        "0":{
+            "titulo": "Programação Orientada a Objetos em 10 lições práticas – Parte 05",
+            "url:": "https://imasters.com.br/dotnet/programacao-orientada-objetos-em-10-licoes-praticas-parte-05"
+        },
+        "1":{
+            "titulo": "Qual a diferença entre Associação, Agregação e Composição em OOP?",
+            "url:": "https://pt.stackoverflow.com/questions/86715/qual-a-diferen%C3%A7a-entre-associa%C3%A7%C3%A3o-agrega%C3%A7%C3%A3o-e-composi%C3%A7%C3%A3o-em-oop"
+        },
+        "2":{
+            "titulo": "Noções básicas sobre associação, agregação e composição",
+            "url:": "https://www.codeproject.com/Articles/330447/Understanding-Association-Aggregation-and-Composit"
+        }
+    }
+}
